@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+}
+
+table {
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+table, th, td, tr {
+    border: 1px solid black;
+}
