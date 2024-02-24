@@ -1,16 +1,27 @@
 body {
     background-color: black;
+    text-align: right;
+}
+
+h1 {
+    color: midnightblue;
+    font-weight: bolder;
+    font-size: 150px;
 }
 
 table {
-    color: blue;
+    color: lightblue;
     font-family: 'Times New Roman', Times, serif;
-}
+    table-layout: fixed;
+    }
 
 th {
     font-weight: bolder;
+    font-size: larger;
+    color: skyblue;
 }
 
 table, th, td, tr {
     border: 1px solid rebeccapurple;
-}
+    
+    }
